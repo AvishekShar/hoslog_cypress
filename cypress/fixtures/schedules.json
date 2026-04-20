@@ -1,0 +1,21 @@
+[ {
+    "date": "2026-04-20",
+    "type": "holiday",          
+    "title": "",                 
+    "details": "Golden Week"
+  },
+
+  {
+    "date": "2026-04-25",
+    "type": "holiday",
+    "title": "",
+    "details": ""
+  },
+
+  {
+    "date": "2026-04-30",
+    "type": "lastBusinessDay",  
+    "title": "",
+    "details": ""
+  }
+]
